@@ -1,11 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rithik! Great to see you here!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px" height="auto">, I'm Rithik! Great to see you here!</h1>
 <h3 align="center">Currently, I am a student pursuing my bachelor's degree in Iformation Science Engineering.</h3>
 
 
 ## 😁About Me
-<hr><h3>
 
 - 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
 
