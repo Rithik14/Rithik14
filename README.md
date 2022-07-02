@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I am always open to collaborat on projects and innovative/disruptive ideas. 
+- 👯 I am always open to collaborate on projects and innovative/disruptive ideas. 
 
 - 📫 How to reach me **rithikkumble@gmail.com**
 
