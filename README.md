@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="Screenshot_20220727-203058_Snapchat-removebg-preview.png" /></a>
+<a href="#"><img width="100%" height="auto" src="Screenshot_20220727-203058_Snapchat-01-removebg-preview.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">, I'm Rithik! Great to see you here!</h1>
 <h3 align="center">Currently, I am a student pursuing my bachelor's degree in Information Science Engineering.</h3>
