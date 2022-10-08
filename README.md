@@ -53,6 +53,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_rithik.k/)](https://www.instagram.com/_rithik.k/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/rithikkumble)
 [![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-00EA64?logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rithikkumble)](https://www.hackerrank.com/rithikkumble)
+[![CodeStudio Badge](https://img.shields.io/badge/-CodeStudio-orange?style=flat-square&logo=CodeStudio&logoColor=white&link=mailto:https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)]
 
 </p>
 
