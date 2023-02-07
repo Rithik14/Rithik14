@@ -22,12 +22,11 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <a href="https://nodejs.org/en/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-    </a> 
+    <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>     </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+    <a href="https://nodejs.org/en/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
 <br>
@@ -63,7 +62,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/rithikkumble)
 [![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-00EA64?logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rithikkumble)](https://www.hackerrank.com/rithikkumble)
 [![CodeStudio Badge](https://img.shields.io/badge/-CodeStudio-orange?style=flat-square&logo=CodeStudio&logoColor=white&link=https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)](https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)
-
 </p>
 
 ## ❤ Views and Followers
