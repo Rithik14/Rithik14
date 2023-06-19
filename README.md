@@ -46,9 +46,9 @@
 <br/>
 <br/>
 
-[![Rithik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rithik14&theme=react-dark)](https://github.com/Rithik14/github-readme-activity-graph)
 
-<!-- <a href="https://github.com/Rithik14/github-readme-activity-graph"><img alt="Rithik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rithik14&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+<a href="https://github.com/Rithik14/github-readme-activity-graph"><img alt="Rithik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rithik14&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 <br/>
