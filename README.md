@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithik! Great to see you here!
-<img width="50%" height="auto" src="Avatar1.png"/></a></h1>
+<img width="80%" height="auto" src="Avatar1.png"/></a></h1>
 <h3 align="center">Currently, I am a student pursuing my bachelor's degree in Information Science Engineering.</h3>
 
 ## 😁About Me
