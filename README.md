@@ -51,8 +51,6 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithikkumble@gmail.com)](mailto:rithikkumble@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/mwlite/in/rithik-k-8a4085220)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_rithik.k/)](https://www.instagram.com/_rithik.k/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/rithikkumble)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-lgreen?logo=Geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/rithikkumble)](https://auth.geeksforgeeks.org/user/rithikkumble)
 [![leetcode Badge](https://img.shields.io/badge/-LeetCode-black?logo=Leetcode&logoColor=orange&link=https://leetcode.com/Rithik14)](https://leetcode.com/Rithik14)
 [![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-00EA64?logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rithikkumble)](https://www.hackerrank.com/rithikkumble)
