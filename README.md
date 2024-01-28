@@ -54,7 +54,7 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-lgreen?logo=Geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/rithikkumble)](https://auth.geeksforgeeks.org/user/rithikkumble)
 [![leetcode Badge](https://img.shields.io/badge/-LeetCode-black?logo=Leetcode&logoColor=orange&link=https://leetcode.com/Rithik14)](https://leetcode.com/Rithik14)
 [![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-00EA64?logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rithikkumble)](https://www.hackerrank.com/rithikkumble)
-[![CodeStudio Badge](https://img.shields.io/badge/-CodeStudio-orange?logo=Codingninjas&logoColor=white&link=https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)](https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)
+[![CodeStudio Badge](https://img.shields.io/badge/-CodeStudio-orange?logo=Codingninjas&logoColor=black&link=https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)](https://www.codingninjas.com/codestudio/profile/4d0b2d67-3fc6-4bda-9f84-9f3024479399)
 </p>
 
 ## ❤ Views and Followers
