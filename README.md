@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rithik! Great to see you here!
 <img width="100%" height="auto" src="Avatar2.png"/></a></h1>
-<h3 align="center">Currently, I am a student pursuing my bachelor's degree in Information Science Engineering.</h3>
+<h3 align="center">Currently, I am working as a Software Developer Intern at Riskonnect Inc.</h3>
 
-## 😁About Me
+## 😁 About Me
 
-- 💻 At the moment, I am aiming to upgrade my technical skills and develop web development projects.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I'm passionate about exploring new technologies and am particularly focused on mastering **Salesforce**, which I believe will significantly enhance my career prospects.
 
-- 👯 I am always open to collaborate on projects and innovative/disruptive ideas. 
+- 🚀 My journey in the tech industry has just begun, and I'm excited to continue learning and growing in this dynamic field.
 
-- 📫 How to reach me **rithikkumble@gmail.com**
+- 👯 I am always open to collaborate on projects and innovative/disruptive ideas. Let's make the world a better place, one line of code at a time! 💡
+
+- 📫 How to reach me: **rithikkumble@gmail.com** 
 
 ## 🚀 Languages and Tools:
 
@@ -21,7 +22,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>     </a> 
+    <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://nodejs.org/en/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> 
@@ -41,7 +42,7 @@
     <a href="https://github.com/Rithik14/github-readme-stats"><img alt="Rithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rithik14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Rithik14/github-readme-stats"><img alt="Rithik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik14&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. But hey, it looks cool! 😎
 
 <br/>
 <br/>
