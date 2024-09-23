@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rithik! Great to see you here!
 <img width="60%" height="auto" src="Avatar2.png"/></a></h1>
-<h3 align="center">Currently, I am working as a Software Developer Intern at Riskonnect Inc.</h3>
+<h3 align="center">Currently, I am an Associate Software Engineer at Riskonnect, actively contributing to software development within the R&D team.</h3>
 
 ## 😁 About Me
 
